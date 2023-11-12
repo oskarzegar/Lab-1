@@ -72,7 +72,7 @@ namespace Lab1
                     Zamknij();
                     break;
                 default:
-                    Console.WriteLine("Błędny wybór, spróbuj ponownie");
+                    Console.WriteLine("Błędny wybór, spróbuj ponownie\n");
                     goto ViewMenu;
             }
         }
