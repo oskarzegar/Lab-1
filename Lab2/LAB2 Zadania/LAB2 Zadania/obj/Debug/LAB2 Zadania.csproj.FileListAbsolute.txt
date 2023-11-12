@@ -1,0 +1,6 @@
+C:\Users\w67213\Desktop\Lab2\LAB2 Zadania\LAB2 Zadania\bin\Debug\LAB2 Zadania.exe.config
+C:\Users\w67213\Desktop\Lab2\LAB2 Zadania\LAB2 Zadania\bin\Debug\LAB2 Zadania.exe
+C:\Users\w67213\Desktop\Lab2\LAB2 Zadania\LAB2 Zadania\bin\Debug\LAB2 Zadania.pdb
+C:\Users\w67213\Desktop\Lab2\LAB2 Zadania\LAB2 Zadania\obj\Debug\LAB2 Zadania.csprojAssemblyReference.cache
+C:\Users\w67213\Desktop\Lab2\LAB2 Zadania\LAB2 Zadania\obj\Debug\LAB2 Zadania.exe
+C:\Users\w67213\Desktop\Lab2\LAB2 Zadania\LAB2 Zadania\obj\Debug\LAB2 Zadania.pdb
